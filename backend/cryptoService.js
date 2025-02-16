@@ -13,7 +13,7 @@ const getCoinGeckoId = (symbol) => {
         DOGE: "dogecoin",
         DOT: "polkadot",
         LTC: "litecoin"
-        // Agrega más si es necesario
+        // Agregar más si es necesario
     };
     return mapping[symbol.toUpperCase()] || symbol.toLowerCase();
 };

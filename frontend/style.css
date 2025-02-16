@@ -1,0 +1,18 @@
+body {
+    background-color: #121212;
+    color: white;
+}
+
+.card {
+    background-color: #1e1e1e;
+    border: none;
+    color: white;
+}
+
+.table th, .table td {
+    color: white;
+}
+
+.card-body {
+    color: white;
+}
